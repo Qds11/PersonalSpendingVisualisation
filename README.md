@@ -20,11 +20,12 @@ Have mysql installed.
 ## Web App Flow
 
 1) Upon loading the web app, all spending data will be displayed
-<img width="630" alt="datavisual" src="https://user-images.githubusercontent.com/101784318/205484258-91ec9340-8b41-437f-96d0-bc31c0c98d71.PNG">
-![image](https://user-images.githubusercontent.com/101784318/205484314-a4945b72-64f9-4e67-85b8-1eedc1a252c3.png)
+<img width="630" alt="datavisual" src="https://user-images.githubusercontent.com/101784318/205484357-6bdfed55-cb37-4cea-8859-6efa7ac8bc07.PNG">
+
 
 2) Users can filter data displayed according to date range using the 2 date type inputs.
-![image](https://user-images.githubusercontent.com/101784318/205484279-3477a027-f30a-4cbd-b73d-2d5da4786d56.png)
+<img width="630" alt="filtered" src="https://user-images.githubusercontent.com/101784318/205484349-06011081-0ff3-4807-8e31-761179f3c7fa.PNG">
+
 
    Both dates must be inputted and end date must be later than start date or else there will be an error message
 <img width="233" alt="empty" src="https://user-images.githubusercontent.com/101784318/205483984-4eb6debc-0c33-4921-8330-eb2b1d5a6213.PNG">
