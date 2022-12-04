@@ -28,6 +28,7 @@ Have mysql installed.
 
 
    Both dates must be inputted and end date must be later than start date or else there will be an error message
+   
 <img width="233" alt="empty" src="https://user-images.githubusercontent.com/101784318/205483984-4eb6debc-0c33-4921-8330-eb2b1d5a6213.PNG">
 <img width="575" alt="error" src="https://user-images.githubusercontent.com/101784318/205484008-f6429dc9-2f7d-4388-b032-9de8b4c39288.PNG">
 
